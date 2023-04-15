@@ -9,7 +9,7 @@ A cryptocurrency web page using HTML, CSS & JavaScript.
 * [LinkedIn](https://www.linkedin.com/in/franciscodelcollados/)
 * [Portfolio](https://iscodelcollado.com)
 
-## See live example
+## Watch the live example
 - [link](https://pakolalo.github.io/batatabit/)
 
 ## Installation
